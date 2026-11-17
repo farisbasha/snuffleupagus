@@ -391,7 +391,7 @@ Whitelist of stream-wrappers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 PHP comes with a `lot of different <https://secure.php.net/manual/en/wrappers.php>`__
-`stream wrapper <https://secure.php.net/manual/en/intro.stream.php>`__, and most of them
+`stream wrapper <https://www.php.net/manual/en/book.stream.php>`__, and most of them
 are enabled by default.
 
 The only way to tighten a bit this exposition surface is to use the

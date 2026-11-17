@@ -79,7 +79,7 @@ without having to touch the PHP code.
   * Automatic `secure` and `samesite` flag for cookies
   * Bundled set of rules to detect post-compromissions behaviours
   * Global [strict mode]( https://secure.php.net/manual/en/migration70.new-features.php#migration70.new-features.scalar-type-declarations) and type-juggling prevention
-  * Whitelisting of [stream wrappers](https://secure.php.net/manual/en/intro.stream.php)
+  * Whitelisting of [stream wrappers](https://www.php.net/manual/en/book.stream.php)
   * Preventing writeable files execution
   * Whitelist/blacklist for `eval`
   * Enforcing TLS certificate validation when using [curl](https://secure.php.net/manual/en/book.curl.php)

@@ -395,7 +395,7 @@ Whitelist of stream-wrappers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 :ref:`Stream-wrapper whitelist <stream-wrapper-whitelist-feature>` allows
-to explicitly whitelist some `stream wrappers <https://secure.php.net/manual/en/intro.stream.php>`__.
+to explicitly whitelist some `stream wrappers <https://www.php.net/manual/en/book.stream.php>`__.
 
 ::
 
